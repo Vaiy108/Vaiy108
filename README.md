@@ -3,7 +3,6 @@
 ### 🛰️ Aerospace, Embedded Systems, & AI Engineer
 I bridge the gap between high-performance systems engineering and advanced aerospace technologies. My expertise spans real-time flight controls, hardware-software co-design, deep learning, and advanced multifunctional energy systems.
 
----
 
 ---
 
