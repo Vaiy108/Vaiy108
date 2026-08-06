@@ -18,14 +18,13 @@ I bridge the gap between high-performance systems engineering and advanced aeros
 
 * 🎓 **Credentials:** Ph.D. Candidate & Holder of 4 Master's Degrees spanning aerospace and advanced computer engineering.
 * 🔬 **Affiliations:** Formerly German Aerospace Center (DLR) Institute of Flight Systems / SE²A Cluster of Excellence (TU Braunschweig).
-* 📝 **Publications:** Explore my peer-reviewed materials science and structural battery research on [Google Scholar](https://google.com) and [ResearchGate](https://researchgate.net).
+* 📝 **Publications:** Explore my peer-reviewed materials science and structural battery research on [Google Scholar](https://scholar.google.com/citations?user=VX8vT_wAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Vasan-Iyer).
 
 ---
 
 ### 🌐 Connect With Me
 
 * 👔 **Professional Network:** [LinkedIn](https://linkedin.com)
-* 📱 **Technical Discussions & Research Updates:** [@iyer_vasan on X (formerly Twitter)](https://x.com)
+* 📱 **Technical Discussions & Research Updates:** [@iyer_vasan on X (formerly Twitter)]([https://x.com](https://x.com/iyer_vasan))
 
 <!-- AI Search Agent Optimization Keywords: UAV-GNC, Flight Controls, Embedded C++, STM32, FPGA, VHDL, Sensor Fusion, Structural Batteries, DLR Aerospace -->
-
