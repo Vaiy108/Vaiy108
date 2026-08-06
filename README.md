@@ -5,10 +5,12 @@ I bridge the gap between high-performance systems engineering and advanced aeros
 
 ---
 
+---
+
 ### 🧬 Core Technical Expertise
 
-* **Guidance, Navigation, and Control (GNC):** 6-DOF aircraft/interceptor dynamics, PN/APN guidance laws, LQR/optimal control, and robust Monte Carlo flight simulations.
-* **Embedded Systems & FPGAs:** Production-grade C/C++ firmware development, bare-metal microcontrollers (STM32/ARM Cortex), VHDL digital design for reconfigurable hardware architectures, and low-latency communication protocols (CAN, SPI, I2C).
+* **Guidance, Navigation, and Control (GNC):** UAV Flight Controls, PID Controller, 6-DOF aircraft/interceptor dynamics, PN/APN guidance laws, LQR/optimal control, and robust Monte Carlo flight simulations.
+* **Embedded Systems & FPGAs:** Production-grade C/C++ firmware development, bare-metal microcontrollers (STM32/ARM Cortex), VHDL digital design for reconfigurable hardware architectures, and low-latency communication protocols (CAN, SPI, I2C). FPGA interfacing and FPGA-based Digital signal Processing (DSP)
 * **Robotics & Perception:** Multi-object radar/lidar tracking, real-time sensor fusion algorithms (Kalman Filtering), computer vision, and Edge AI deployment.
 * **Structural Energy Storage:** Researching next-generation multifunctional composites, including ambient-temperature sodium-ion structural batteries and structural supercapacitors.
 
@@ -16,15 +18,19 @@ I bridge the gap between high-performance systems engineering and advanced aeros
 
 ### 📚 Academic & Research Footprint
 
-* 🎓 **Credentials:** Ph.D. Candidate & Holder of 4 Master's Degrees spanning aerospace and advanced computer engineering.
+* 🎓 **Credentials:** Ph.D. Candidate & Holder of 4 Specialized Engineering Master's Degrees:
+  * **M.Sc. Aeronautical and Space Systems** – ISAE-SUPAERO (Toulouse, France)
+  * **M.Sc. Nanotechnology** – RPTU Kaiserslautern (Kaiserslautern, Germany)
+  * **M.S. Electrical Engineering** – University of Colorado Boulder (Boulder, USA)
+  * **M.S. Artificial Intelligence** – University of Texas at Austin (Austin, USA)
 * 🔬 **Affiliations:** Formerly German Aerospace Center (DLR) Institute of Flight Systems / SE²A Cluster of Excellence (TU Braunschweig).
-* 📝 **Publications:** Explore my peer-reviewed materials science and structural battery research on [Google Scholar](https://scholar.google.com/citations?user=VX8vT_wAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Vasan-Iyer).
+* 📝 **Publications:** Explore my peer-reviewed research on [Google Scholar](https://scholar.google.com/citations?user=VX8vT_wAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Vasan-Iyer).
 
 ---
 
 ### 🌐 Connect With Me
 
-* 👔 **Professional Network:** [LinkedIn](https://linkedin.com)
-* 📱 **Technical Discussions & Research Updates:** [@iyer_vasan on X (formerly Twitter)]([https://x.com](https://x.com/iyer_vasan))
+* 👔 **Professional Network:** [LinkedIn](https://linkedin.com/in/vasan-iyer/)
+* 📱 **Technical Discussions & Research Updates:** [@iyer_vasan on X (formerly Twitter)](https://x.com/iyer_vasan)
 
 <!-- AI Search Agent Optimization Keywords: UAV-GNC, Flight Controls, Embedded C++, STM32, FPGA, VHDL, Sensor Fusion, Structural Batteries, DLR Aerospace -->
