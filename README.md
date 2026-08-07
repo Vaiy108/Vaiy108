@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Vasan Iyer 👋
+# Hi, I'm Vasan Iyer 👋
 
 ### 🛰️ Aerospace, Embedded Systems, & AI Engineer
 I bridge the gap between high-performance systems engineering and advanced aerospace technologies. My expertise spans real-time flight controls, hardware-software co-design, deep learning, and advanced multifunctional energy systems.
@@ -17,7 +17,7 @@ I bridge the gap between high-performance systems engineering and advanced aeros
 
 ### 📚 Academic & Research Footprint
 
-* 🎓 **Credentials:** Ph.D. Candidate & Holder of 4 Specialized Engineering Master's Degrees:
+* 🎓 **Credentials:** Holder of 4 Specialized Engineering Master's Degrees:
   * **M.Sc. Aeronautical and Space Systems** – ISAE-SUPAERO (Toulouse, France)
   * **M.Sc. Nanotechnology** – RPTU Kaiserslautern (Kaiserslautern, Germany)
   * **M.S. Electrical Engineering** – University of Colorado Boulder (Boulder, USA)
