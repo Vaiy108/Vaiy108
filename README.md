@@ -9,7 +9,7 @@ I bridge the gap between high-performance systems engineering and advanced aeros
 ### 🧬 Core Technical Expertise
 
 * **Guidance, Navigation, and Control (GNC):** UAV Flight Controls, PID Controller, 6-DOF aircraft/interceptor dynamics, PN/APN guidance laws, LQR/optimal control, and robust Monte Carlo flight simulations.
-* **Embedded Systems & FPGAs:** Production-grade C/C++ firmware development, bare-metal microcontrollers (STM32/ARM Cortex), VHDL digital design for reconfigurable hardware architectures, and low-latency communication protocols (CAN, SPI, I2C). FPGA interfacing and FPGA-based Digital signal Processing (DSP)
+* **Embedded Systems & FPGAs:** Production-grade C/C++ firmware development, bare-metal microcontrollers (STM32/ARM Cortex), driver software for sensor integration, VHDL digital design for reconfigurable hardware architectures, and low-latency communication protocols (CAN, SPI, I2C). FPGA interfacing and FPGA-based Digital signal Processing (DSP)
 * **Robotics & Perception:** Multi-object radar/lidar tracking, real-time sensor fusion algorithms (Kalman Filtering), computer vision, and Edge AI deployment.
 * **Structural Energy Storage:** Researching next-generation multifunctional composites, including ambient-temperature sodium-ion structural batteries and structural supercapacitors.
 
