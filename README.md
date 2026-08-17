@@ -4,17 +4,15 @@
 I bridge the gap between high-performance systems engineering and advanced aerospace technologies. My expertise spans real-time flight controls, hardware-software co-design, deep learning, and advanced multifunctional energy systems.
 
 My primary interests are:
-
-- ✈️ Flight Control & Flight Dynamics
-- 🚁 Autonomous UAV Systems
-- 💻 Embedded Software (C/C++), FPGAs (VHDL)
-- 📡 Avionics & Sensor Integration
-- 🛰️ Guidance, Navigation & Control (GNC)
-- 🔬 Sensor Fusion & State Estimation
-- 🧠 Artificial Intelligence (AI)
+- 🔲 FPGA Design (VHDL)
 - ⚡ Power Electronics
+- 💻 Embedded C/C++ Development
+- ✈️ Flight Control Systems
+- 🚁 Autonomous UAV Software
+- 📡 Sensor Fusion & State Estimation
+- 🤖 AI for Aerospace Applications
 
-I enjoy developing complete aerospace software stacks — from embedded firmware and avionics to flight control, simulation, and verification.
+I enjoy developing hardware, complete and reliable aerospace software stacks — from embedded firmware and avionics to flight control, simulation, and verification.
 
 ---
 
@@ -22,11 +20,11 @@ I enjoy developing complete aerospace software stacks — from embedded firmware
 
 | Area | Repository |
 |------|------------|
-| 🚁 Flight Control | Autonomous UAV Avionics Control Stack |
-| 🛩️ Embedded Avionics | Embedded Avionics Software Stack |
-| 🔧 Embedded Firmware | STM32 CAN Telemetry Node |
-| 📡 FPGA & DSP | Intel FPGA DSP Measurement Platform |
-| 📶 Radar Signal Processing | S32R45 Radar DSP Pipeline |
+| 🚁 Flight Control | [Autonomous UAV Avionics Control Stack](https://github.com/Vaiy108/autonomous-uav-avionics-control-stack) |
+| 🛩️ Embedded Avionics | [Embedded Avionics Software Stack](https://github.com/Vaiy108/embedded-avionics-software-stack) |
+| 🔧 Embedded Firmware | [STM32 CAN Telemetry Node](https://github.com/Vaiy108/stm32-can-telemetry-node) |
+| 📡 FPGA & DSP | [Intel FPGA DSP Measurement](https://github.com/Vaiy108/intel-fpga-de10-dsp-measurement) |
+| 📶 Radar Signal Processing | [S32R45 Radar DSP Pipeline](https://github.com/Vaiy108/s32r45-radar-pipeline-sil) |
 
 ---
 
