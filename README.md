@@ -3,6 +3,30 @@
 ### 🛰️ Aerospace, Embedded Systems, & AI Engineer
 I bridge the gap between high-performance systems engineering and advanced aerospace technologies. My expertise spans real-time flight controls, hardware-software co-design, deep learning, and advanced multifunctional energy systems.
 
+My primary interests are:
+
+- ✈️ Flight Control & Flight Dynamics
+- 🚁 Autonomous UAV Systems
+- 💻 Embedded Software (C/C++), FPGAs (VHDL)
+- 📡 Avionics & Sensor Integration
+- 🛰️ Guidance, Navigation & Control (GNC)
+- 🔬 Sensor Fusion & State Estimation
+- 🧠 Artificial Intelligence (AI)
+- ⚡ Power Electronics
+
+I enjoy developing complete aerospace software stacks — from embedded firmware and avionics to flight control, simulation, and verification.
+
+---
+
+## Featured Engineering Portfolio
+
+| Area | Repository |
+|------|------------|
+| 🚁 Flight Control | Autonomous UAV Avionics Control Stack |
+| 🛩️ Embedded Avionics | Embedded Avionics Software Stack |
+| 🔧 Embedded Firmware | STM32 CAN Telemetry Node |
+| 📡 FPGA & DSP | Intel FPGA DSP Measurement Platform |
+| 📶 Radar Signal Processing | S32R45 Radar DSP Pipeline |
 
 ---
 
